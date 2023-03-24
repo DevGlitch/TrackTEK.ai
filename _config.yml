@@ -4,3 +4,5 @@ permalink: "/:title"
 
 # Build settings
 theme: minima
+
+repository: DevGlitch/TrackTEK.ai
